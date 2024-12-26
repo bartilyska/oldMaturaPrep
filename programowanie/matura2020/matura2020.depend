@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684694192 source:c:\users\crf\onedrive\pulpit\programowanie\matura2020\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

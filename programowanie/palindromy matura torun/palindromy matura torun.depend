@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677524670 source:c:\users\crf\onedrive\pulpit\programowanie\palindromy matura torun\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

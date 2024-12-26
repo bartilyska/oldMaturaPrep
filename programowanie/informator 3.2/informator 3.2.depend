@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616844596 source:c:\users\crf\desktop\programowanie\informator 3.2\main.cpp
+	<iostream>
+	<fstream>
+

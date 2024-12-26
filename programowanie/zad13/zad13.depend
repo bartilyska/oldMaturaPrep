@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678969241 source:c:\users\crf\onedrive\pulpit\programowanie\zad13\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

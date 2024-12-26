@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685028501 source:c:\users\crf\onedrive\pulpit\programowanie\ciagi malejacorosnace\main.cpp
+	<iostream>
+	<fstream>
+

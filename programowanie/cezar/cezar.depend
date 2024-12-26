@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600617939 source:c:\users\crf\desktop\programowanie\cezar\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688038386 source:c:\users\crf\onedrive\pulpit\programowanie\licz\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+

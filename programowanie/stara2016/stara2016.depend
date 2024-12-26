@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607780331 source:c:\users\crf\desktop\programowanie\stara2016\main.cpp
+	<iostream>
+	<fstream>
+

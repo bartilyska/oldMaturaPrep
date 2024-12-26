@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606570314 source:c:\users\crf\desktop\programowanie\liczby 2020 pp\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

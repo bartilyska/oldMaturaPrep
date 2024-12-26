@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601123567 source:c:\users\crf\desktop\programowanie\gg\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+

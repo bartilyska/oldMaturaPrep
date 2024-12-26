@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683929402 source:c:\users\crf\onedrive\pulpit\programowanie\maturka\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<bits/stdc++.h>
+

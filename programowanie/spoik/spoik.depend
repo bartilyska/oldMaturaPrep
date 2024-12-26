@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685041660 source:c:\users\crf\onedrive\pulpit\programowanie\spoik\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+

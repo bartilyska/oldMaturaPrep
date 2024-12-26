@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666896221 source:c:\users\crf\onedrive\pulpit\programowanie\probnamatura\main.cpp
+	<iostream>
+	<fstream>
+

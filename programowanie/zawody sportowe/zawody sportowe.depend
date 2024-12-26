@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624552855 source:c:\users\crf\desktop\programowanie\zawody sportowe\main.cpp
+	<iostream>
+	<fstream>
+

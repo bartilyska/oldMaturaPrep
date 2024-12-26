@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602262156 source:c:\users\crf\desktop\programowanie\22\main.cpp
+	<iostream>
+
+1681419305 source:c:\users\crf\onedrive\pulpit\programowanie\22\main.cpp
+	<iostream>
+	<fstream>
+

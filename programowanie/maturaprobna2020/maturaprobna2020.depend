@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607440892 source:c:\users\crf\desktop\programowanie\maturaprobna2020\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

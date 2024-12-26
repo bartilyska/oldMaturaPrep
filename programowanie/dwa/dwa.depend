@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593261453 source:c:\users\crf\desktop\programowanie\dwa\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

@@ -1,0 +1,51 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    //kompresja
+    /*string s;
+    cin>>s;
+    int dl=s.length();
+    int n=1;
+    for(int i=0;i<dl;i++)
+    {
+        if(s[i]==s[i+1])
+            n++;
+        else{
+            if(n>2)
+                cout<<s[i]<<n;
+            else{
+                while(n>0)
+                {
+                    cout<<s[i];
+                    n--;
+                }
+            }
+            n=1;
+        }
+    }*/
+    //dekompresja
+    string s;
+    cin>>s;
+    int dl=s.length();
+    int n=0;
+    for(int i=0;i<dl-1;i++)
+    {
+        if(s[i]>='A' && s[i]<='Z' && s[i+1]<='Z' && s[i+1]>='A')
+            cout<<s[i];
+        else if(s[i]<='9' && s[i]>='0'){
+            n=n*10+(s[i]-'0');
+            if(s[i+1]<='Z' && s[i+1]>='A')
+            {
+                while(n>0)
+                {
+                    cout<<s[i];
+                    n--;
+                }
+            }
+        }
+    }
+    return 0;
+}

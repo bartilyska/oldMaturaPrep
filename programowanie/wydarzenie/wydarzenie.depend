@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1687976886 source:c:\users\crf\onedrive\pulpit\programowanie\wydarzenie\main.cpp
+	<iostream>
+	"event.h"
+
+1687977013 c:\users\crf\onedrive\pulpit\programowanie\wydarzenie\event.h
+	<iostream>
+
+1687976834 source:c:\users\crf\onedrive\pulpit\programowanie\wydarzenie\evect.cpp
+	<iostream>
+	"event.h"
+

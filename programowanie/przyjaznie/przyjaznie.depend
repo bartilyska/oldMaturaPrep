@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1687983538 source:c:\users\crf\onedrive\pulpit\programowanie\przyjaznie\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1687983538 c:\users\crf\onedrive\pulpit\programowanie\przyjaznie\przyjaciele.h
+	<iostream>
+
+1687983465 source:c:\users\crf\onedrive\pulpit\programowanie\przyjaznie\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+

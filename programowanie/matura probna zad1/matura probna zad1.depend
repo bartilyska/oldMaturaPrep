@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671972204 source:c:\users\crf\onedrive\pulpit\programowanie\matura probna zad1\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

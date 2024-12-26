@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616347485 source:c:\users\crf\desktop\programowanie\znajdowanie wzorca w tekscie\main.cpp
+	<iostream>
+	<fstream>
+

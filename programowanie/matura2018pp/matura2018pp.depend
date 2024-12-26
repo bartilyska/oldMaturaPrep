@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607111150 source:c:\users\crf\desktop\programowanie\matura2018pp\main.cpp
+	<iostream>
+	<fstream>
+
